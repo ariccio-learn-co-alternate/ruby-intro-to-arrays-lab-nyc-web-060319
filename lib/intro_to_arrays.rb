@@ -1,5 +1,5 @@
 def instantiate_new_array
-  Array.new(2)
+  Array.new()
 end
 
 def first_element(array)
